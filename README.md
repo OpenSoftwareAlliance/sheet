@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Sheet
+
+Online collaborative spreadsheet. Open alternative to **Google Sheets**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Luckysheet](https://github.com/dream-num/Luckysheet), kept in sync with this repository |
+| License | MIT |
+
+Credit for the original work goes to the Luckysheet authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 <div align="center">
 
 ![logo](/docs/.vuepress/public/img/logo_text.png)
